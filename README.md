@@ -1,3 +1,9 @@
+<html>
+<body>
+  <h1>Home</h1>
+</body>
+  
+</html>
 # Niraj Jain
 📊 Data Analyst | Data-Driven Insights | Business Intelligence Analyst
 
