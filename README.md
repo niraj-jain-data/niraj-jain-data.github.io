@@ -1,4 +1,4 @@
-Connect with me on LinkedIn(https://www.linkedin.com/in/jain-niraj/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jain-niraj/)
 
 📌 Portfolio Projects
 
