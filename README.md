@@ -24,7 +24,7 @@ This project focuses on Stock Risk Classification and Consumption Analysis with 
 
 •Conclusion & Next Steps: Strategic planning insights based on data trends
 
-image
+![image](https://github.com/user-attachments/assets/4270893b-c0af-4ba8-887d-dce7f42a5cd8)
 
 🏛 Data Warehouse - SQL, Star Schema, Data Analysis
 
@@ -58,7 +58,7 @@ This project involves analyzing the DLR train departure losses dataset to extrac
 
 The Power BI dashboard enables stakeholders to make data-driven decisions based on departure loss trends.
 
-image
+![image](https://github.com/user-attachments/assets/381de626-c2be-431f-8218-7899f5f1cb1f)
 
 🛒 Retail Sales Dashboard - Time Series
 
@@ -76,7 +76,7 @@ This study investigates time series forecasting on retail sales data to uncover 
 
 Key visualizations include line charts, bar charts, treemaps, and maps to illustrate demand patterns and optimize business strategies.
 
-image
+![image](https://github.com/user-attachments/assets/6e4536fc-1c88-4cdb-95a6-67364ef935f9)
 
 💰 Finance Analysis - Risk, Return, and Portfolio Optimization
 
